@@ -1,0 +1,5 @@
+.*
+keggmapwizard.egg-info
+KEGG_MAP_WIZARD_DATA
+**/__pycache__/
+test*
